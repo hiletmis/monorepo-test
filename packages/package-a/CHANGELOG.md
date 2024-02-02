@@ -1,5 +1,16 @@
 # @mockintosh/package-a
 
+## 2.0.0
+
+### Major Changes
+
+- 58c479e: Minor release
+
+### Patch Changes
+
+- Updated dependencies [58c479e]
+  - @mockintosh/package-b@2.0.0
+
 ## 1.3.3
 
 ### Patch Changes
