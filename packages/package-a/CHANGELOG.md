@@ -1,5 +1,13 @@
 # @mockintosh/package-a
 
+## 2.0.2
+
+### Patch Changes
+
+- 80e77c0: Patch 2.0.2
+- Updated dependencies [80e77c0]
+  - @mockintosh/package-b@2.0.2
+
 ## 2.0.1
 
 ### Patch Changes
