@@ -1,6 +1,6 @@
 {
   "name": "@mockintosh/package-a",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "",
   "main": "dist/packages/package-a/src/index.js",
   "types": "dist/packages/package-a/src/index.d.ts",
