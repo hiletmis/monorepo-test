@@ -7,7 +7,7 @@
   "scripts": {
     "build": "tsc -b tsconfig.build.json",
     "build:watch": "pnpm run build -w",
-    "release": "pnpm publish -r --no-git-checks"
+    "release": "pnpm publish -r"
   },
   "devDependencies": {
     "@types/node": "^20.11.15",
