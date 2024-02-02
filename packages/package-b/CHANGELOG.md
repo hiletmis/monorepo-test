@@ -1,5 +1,11 @@
 # @mockintosh/package-b
 
+## 2.0.0
+
+### Major Changes
+
+- 58c479e: Minor release
+
 ## 1.3.4
 
 ### Patch Changes
