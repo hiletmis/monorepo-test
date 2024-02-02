@@ -9,7 +9,8 @@
   ],
   "scripts": {
     "test": "node dist/packages/package-a/src/index.js",
-    "build": "rm -rf dist && tsc"
+    "build": "rm -rf dist && tsc",
+    "prepublishOnly": "echo 'Building package-a for NPM registry...' && rm -rf dist && tsc -p tsconfig.npm.json"
   },
   "dependencies": {
     "@mockintosh/package-b": "workspace:*"
