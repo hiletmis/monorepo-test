@@ -1,5 +1,11 @@
 # @mockintosh/package-b
 
+## 2.0.1
+
+### Patch Changes
+
+- 6eef071: Patch 1.4.1
+
 ## 2.0.0
 
 ### Major Changes
